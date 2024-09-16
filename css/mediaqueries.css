@@ -1,7 +1,5 @@
 @media screen and (max-width: 1400px){
     #profile {
-        /* height: 78vh;
-        margin-bottom: -30rem; */
         vertical-align: middle;
     }
 
@@ -25,24 +23,25 @@
         display: flex;
     }
 
-    #about {
-        margin-top: 45rem;
+    #profile {
+        height: 59vh;
+        margin-bottom: 4rem;
     }
 
-    #experience, .experience-details-container {
-        margin-top: 2rem;
+    /* #about {
+        margin-top: 6rem;
     }
 
-    .section-conatiner {
-        display: block;
+    #experience {
+        margin-top: 5rem;
+    } */
+
+    .section-container, .experience-details-container {
+        margin-top: 3rem;
     }
 
     .section__pic-container{
         margin: 0;
-    }
-
-    .section__text{
-        margin-top: 39px;
     }
 
     .arrow{
@@ -51,11 +50,10 @@
 
     section, .section-container{
         height: fit-content;
-        margin-top: 34px;
     }
 
     section{
-        margin: 0 5%;
+        margin: 3rem 5%;
     }
 
     .about-containers {
