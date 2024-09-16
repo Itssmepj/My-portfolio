@@ -100,7 +100,7 @@
     #projects .details-container {
         max-width: 50%;
     }
-    
+
     .about-containers {
         flex-direction: column;
     }
@@ -117,7 +117,7 @@
     }
 
     #about {
-        margin-top: 13rem;
+        margin-top: 10rem;
     }
 
     article{
@@ -149,7 +149,11 @@
     #projects .about-containers {
         margin-left: auto;
         margin-right: auto;
-        width: 75%;
+        width: 100%;
+    }
+
+    #projects .details-container {
+        max-width: 100%;
     }
 
     .contact-info-container {
