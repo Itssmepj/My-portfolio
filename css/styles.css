@@ -169,6 +169,15 @@ section{
     z-index: -10;
 }
 
+.section__pic-container img {
+    transition: .2s;
+}
+
+
+.section__pic-container img:hover {
+    transform: scale(1.05);
+}
+
 .section__text{
     align-self: center;
     text-align: center;
