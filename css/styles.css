@@ -345,7 +345,7 @@ article .icon{
 }
 
 .project-img:hover {
-    transform: rotate(3deg);
+    transform: rotate(-3deg);
 }
 
 .project-title {
