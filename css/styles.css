@@ -332,6 +332,11 @@ article .icon{
     border-radius: 1.5rem;
     width: 90%;
     height: 90%;
+    transition: transform .2s;
+}
+
+.project-img:hover {
+    transform: rotate(3deg);
 }
 
 .project-title {
