@@ -13,12 +13,16 @@
 }
 
 @media screen and (max-width: 1370px) {
-    #projects .details-container{
-        max-width: 33%;
+    .about-containers {
+        flex-wrap: wrap;
         justify-content: center;
         gap: 3rem;
-
     }
+
+    #projects .details-container{
+        max-width: 33%;
+    }
+
 }
 
 @media screen and (max-width: 1200px) {
