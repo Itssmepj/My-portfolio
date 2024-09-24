@@ -52,8 +52,7 @@
     }
     
     #projects .details-container  {
-        max-width: 43%;
-        margin: auto;
+        max-width: 30%;
     }
 
     .arrow{
