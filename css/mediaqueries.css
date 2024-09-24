@@ -12,7 +12,14 @@
     }
 }
 
-@media screen and (max-width: 1370px) {}
+@media screen and (max-width: 1370px) {
+    #projects .details-container{
+        max-width: 33%;
+        justify-content: center;
+        gap: 3rem;
+
+    }
+}
 
 @media screen and (max-width: 1200px) {
     #desktop-nav {
