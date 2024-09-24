@@ -109,6 +109,7 @@
 @media screen and (max-width: 768px) {
     #projects .details-container {
         max-width: 50%;
+        margin: auto;
     }
 
     .about-containers {
@@ -163,7 +164,7 @@
     }
 
     #projects .details-container {
-        max-width: 100%;
+        max-width: 75%;
     }
 
     .contact-info-container {
