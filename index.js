@@ -12,3 +12,6 @@ function toggleMenu() {
       profilePic.style.marginTop = "0";
     }
   }
+
+// Footer
+document.getElementById("year").innerHTML = new Date().getFullYear();
